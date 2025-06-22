@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arturyeszhanov/arturyeszhanov/main/header.png" width="1200" height="250" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/arturyeszhanov/arturyeszhanov/main/header.png" width="1200" height="240" alt="GitHub Banner" />
 </p>
 
 ###
