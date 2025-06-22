@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arturyeszhanov/arturyeszhanov/main/header.png" width="1200" height="280" alt="GitHub Banner" />
+</p>
 
 ###
 
