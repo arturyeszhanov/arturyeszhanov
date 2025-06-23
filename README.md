@@ -36,10 +36,14 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a>
 </p>
 
-###
+<br>
+<h3 align="left"> 🧩 Cтатистика Codewars </h3>
+
+![Codewars](https://www.codewars.com/users/arturyeszhanov/badges/large)
+
 
 <br>
-<h3 align="left">🔥 Cтатистика </h3>
+<h3 align="left">🔥 Cтатистика Github </h3>
 
 ###
 
