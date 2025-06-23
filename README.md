@@ -41,25 +41,3 @@
 
 ![Codewars](https://www.codewars.com/users/arturyeszhanov/badges/large)
 
-<!-- Закомментировали временно этот блок
-<br>
-<h3 align="left">🔥 Cтатистика Github </h3>
-
-###
-
-<table align="center" width="100%" cellspacing="0" cellpadding="0" style="border: none;">
-  <tr>
-    <!-- Левая колонка: stats -->
-    <td width="30%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=arturyeszhanov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-    </td>
-    <td width="40%" align="center" style="border: none;">
-      <img src="https://streak-stats.demolab.com?user=arturyeszhanov&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-    </td>
-    <!-- Правая колонка: langs -->
-    <td width="30%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arturyeszhanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-    </td>
-    </tr></table>
-    ###
-    -->
