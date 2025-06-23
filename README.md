@@ -41,7 +41,7 @@
 
 ![Codewars](https://www.codewars.com/users/arturyeszhanov/badges/large)
 
-
+<!-- Закомментировали временно этот блок
 <br>
 <h3 align="left">🔥 Cтатистика Github </h3>
 
@@ -60,7 +60,6 @@
     <td width="30%" align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arturyeszhanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
     </td>
-  </tr>
-</table>
-
-###
+    </tr></table>
+    ###
+    -->
